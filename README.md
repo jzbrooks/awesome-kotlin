@@ -120,23 +120,23 @@ Here is the awesome badge for your project:
 
 ## <a name="github-trending"></a>Github Trending <sup>[Back ⇈](#github-trending-category)</sup>
 ### <a name="github-trending-monthly"></a>Monthly <sup>[Back ⇈](#github-trending-monthly-subcategory)</sup>
-* [feelfreelinux/octo4a](https://github.com/feelfreelinux/octo4a) - Use your old Android device as an OctoPrint server.
+* [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A material design YouTube Music client
+* [google-developer-training/android-kotlin-fundamentals-starter-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-starter-apps) - android-kotlin-fundamentals-starter-apps
 * [MatsuriDayo/Matsuri](https://github.com/MatsuriDayo/Matsuri) - Matsuri (茉莉) / V2Ray / universal proxy toolchain for Android / Fork of SagerNet
 * [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading Movies, TV-Series and Anime.
 * [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 * [google-developer-training/android-kotlin-fundamentals-apps](https://github.com/google-developer-training/android-kotlin-fundamentals-apps) - android-kotlin-fundamentals-apps
+* [cashapp/paparazzi](https://github.com/cashapp/paparazzi) - Render your Android screens without a physical device or emulator
 * [mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
 * [vector-im/element-android](https://github.com/vector-im/element-android) - A glossy Matrix collaboration client for Android.
+* [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 * [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 * [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
-* [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
 * [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android
+* [cashapp/sqldelight](https://github.com/cashapp/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL
 * [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.
-* [detekt/detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 * [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOTE:   BEING REWRITTEN,  SO  STAY TUNED.
-* [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
 * [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - Firefox for Android
-* [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.
 * [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 * [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls &amp; full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 * [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
@@ -147,33 +147,36 @@ Here is the awesome badge for your project:
 * [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ### <a name="github-trending-weekly"></a>Weekly <sup>[Back ⇈](#github-trending-weekly-subcategory)</sup>
-* [VegaBobo/DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader) - A simple app made to help users easily install GSIs via DSU's Android feature.
-* [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A material design YouTube Music client
+* [kittoku/Open-SSTP-Client](https://github.com/kittoku/Open-SSTP-Client) - Open SSTP Client for Android
 * [mouredev/Weekly-Challenge-2022-Kotlin](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin) - Retos semanales de la comunidad MoureDev para practicar Kotlin &amp; Android
-* [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - Screen Stream Android app
-* [cashapp/paparazzi](https://github.com/cashapp/paparazzi) - Render your Android screens without a physical device or emulator
+* [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - This is a copy of Reeder, in order to give Android an RSS reader similar to Reeder, combines the interaction logic of Reeder with the design style of Material Design 3 (You).
+* [android/play-billing-samples](https://github.com/android/play-billing-samples) - Samples for Google Play In-app Billing
 * [kizitonwose/Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar library for Android, powered by RecyclerView for the view system, and LazyRow/LazyColumn for compose.
-* [androidx/androidx](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
-* [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
+* [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for networkIDs and chainIDs
+* [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing
+* [android/camera-samples](https://github.com/android/camera-samples) - Multiple samples showing the best practices in camera APIs on Android.
+* [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 * [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 * [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 * [android/architecture-components-samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
-* [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
+* [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
-* [Tc2r1/Hacktoberfest_Interview_App](https://github.com/Tc2r1/Hacktoberfest_Interview_App) - This is an Open Sourced Hacktoberfest Programming Quiz Project to help people practice for interviews.  We are redesigning the application for use with all languages. Open for Contributions for Hactoberfest
-* [getsentry/sentry-java](https://github.com/getsentry/sentry-java) - A Sentry SDK for Java, Android and other JVM languages.
-* [allenymt/PrivacySentry](https://github.com/allenymt/PrivacySentry) - 工信部-Android隐私合规整改检测工具，注解+Asm修改字节码的检测方案
-* [home-assistant/android](https://github.com/home-assistant/android) - :iphone: Home Assistant Companion for Android
-* [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
-* [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
+* [silentsignal/burp-text4shell](https://github.com/silentsignal/burp-text4shell) - Text4Shell scanner for Burp Suite
+* [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
+* [stripe/stripe-android](https://github.com/stripe/stripe-android) - Stripe Android SDK
+* [cashapp/turbine](https://github.com/cashapp/turbine) - A small testing library for kotlinx.coroutines Flow
 * [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) - GraphQL for Java with Spring Boot made easy.
-* [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
+* [android/location-samples](https://github.com/android/location-samples) - Multiple samples showing the best practices in location APIs on Android.
+* [KieronQuinn/TapTap](https://github.com/KieronQuinn/TapTap) - Port of the double tap on back of device feature from Android 12 to any Android 7.0+ device
 * [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android.
-* [android/camera-samples](https://github.com/android/camera-samples) - Multiple samples showing the best practices in camera APIs on Android.
-* [mockk/mockk](https://github.com/mockk/mockk) - mocking library for Kotlin
-* [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
-* [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
+* [square/kotlinpoet](https://github.com/square/kotlinpoet) - A Kotlin API for generating .kt source files.
+* [androidx/androidx](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
+* [detekt/detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
+* [pinterest/ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
+* [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
+* [square/picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android
+* [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
@@ -697,68 +700,55 @@ Here is the awesome badge for your project:
 
 ## <a name="projects"></a>Projects <sup>[Back ⇈](#projects-category)</sup>
 ### <a name="projects-web"></a>Web <sup>[Back ⇈](#projects-web-subcategory)</sup>
-* [sdeleuze/spring-boot-kotlin-demo](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Basic Spring Boot app in Kotlin.
-* [IRus/kotlin-dev-proxy](https://github.com/IRus/kotlin-dev-proxy) - Simple server for proxy requests and host static files written in Kotlin, Spark Java and Apache HttpClient.
-* [ratpack/example-ratpack-gradle-kotlin-app](https://github.com/ratpack/example-ratpack-gradle-kotlin-app) - An example of a Kotlin Ratpack app built with Gradle.
-* [mariomac/codebuilder](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+* [derveloper/kiny](https://github.com/derveloper/kiny) - Your super simple private serverless service running your kotlin functions like AWS lambda.
+* [MichaelGrigoryan25/kotlin-url-shortener](https://github.com/MichaelGrigoryan25/kotlin-url-shortener) - Basic URL shortener built with Kotlin, Redis and Javalin
 * [cbedoy/DYUM](https://github.com/cbedoy/DYUM) - Basic Kotlin Implementation following MVP, and using Third Party library by Natural Analytics Language
-* [eddywm/KTFLITE](https://github.com/eddywm/KTFLITE) - Computer Vision on Android with Kotlin and Tensorflow Lite.
+* [viniciusccarvalho/kodein-cloud-functions](https://github.com/viniciusccarvalho/kodein-cloud-functions) - Provides adapters to different cloud functions providers (AWS, Azure) to run vanilla kotlin functions defined as kodein modules
 * [rocketraman/kotlin-web-hello-world](https://github.com/rocketraman/kotlin-web-hello-world) - This project shows how to do a web-based &quot;Hello World!&quot; with Kotlin in combination with various JVM - based web frameworks.
 * [ivanpopelyshev/vertx-facebook-messenger](https://github.com/ivanpopelyshev/vertx-facebook-messenger) - Seed project for facebook messenger bots. Vertx, Kotlin.
-* [corda/corda](https://github.com/corda/corda) - Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners.
-* [spolnik/JAlgoArena](https://github.com/spolnik/JAlgoArena) - JAlgoArena is a highly scalable programming contest platform which you can host on own infrastructure. It allows to define new problems and solve them in Kotlin and Java.
-* [mixitconf/mixit](https://github.com/mixitconf/mixit) - MiXiT website
-* [derveloper/kiny](https://github.com/derveloper/kiny) - Your super simple private serverless service running your kotlin functions like AWS lambda.
-* [ssouris/petclinic-spring5-reactive](https://github.com/ssouris/petclinic-spring5-reactive) - Spring 5 Reactive Petclinic app written in Kotlin.
 * [yyunikov/spring-boot-2-kotlin-starter](https://github.com/yyunikov/spring-boot-2-kotlin-starter) - Spring Boot 2.0 Kotlin application starter with configurations for Gradle, Mongo, JUnit 5 tests, logging, CircleCI and Docker compose.
-* [viniciusccarvalho/kodein-cloud-functions](https://github.com/viniciusccarvalho/kodein-cloud-functions) - Provides adapters to different cloud functions providers (AWS, Azure) to run vanilla kotlin functions defined as kodein modules
-* [MichaelGrigoryan25/kotlin-url-shortener](https://github.com/MichaelGrigoryan25/kotlin-url-shortener) - Basic URL shortener built with Kotlin, Redis and Javalin
+* [IRus/kotlin-dev-proxy](https://github.com/IRus/kotlin-dev-proxy) - Simple server for proxy requests and host static files written in Kotlin, Spark Java and Apache HttpClient.
+* [spolnik/JAlgoArena](https://github.com/spolnik/JAlgoArena) - JAlgoArena is a highly scalable programming contest platform which you can host on own infrastructure. It allows to define new problems and solve them in Kotlin and Java.
+* [ratpack/example-ratpack-gradle-kotlin-app](https://github.com/ratpack/example-ratpack-gradle-kotlin-app) - An example of a Kotlin Ratpack app built with Gradle.
+* [ssouris/petclinic-spring5-reactive](https://github.com/ssouris/petclinic-spring5-reactive) - Spring 5 Reactive Petclinic app written in Kotlin.
+* [eddywm/KTFLITE](https://github.com/eddywm/KTFLITE) - Computer Vision on Android with Kotlin and Tensorflow Lite.
+* [mixitconf/mixit](https://github.com/mixitconf/mixit) - MiXiT website
+* [sdeleuze/spring-boot-kotlin-demo](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Basic Spring Boot app in Kotlin.
+* [corda/corda](https://github.com/corda/corda) - Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners.
 
 ### <a name="projects-build-tools"></a>Build tools <sup>[Back ⇈](#projects-build-tools-subcategory)</sup>
-* [cbeust/kobalt](https://github.com/cbeust/kobalt) - Build system inspired by Gradle.
-* [gradle/kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-* [nebula-plugins/nebula-kotlin-plugin](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
 * [pubref/rules_kotlin](https://github.com/pubref/rules_kotlin) - Bazel rules for Kotlin.
+* [cbeust/kobalt](https://github.com/cbeust/kobalt) - Build system inspired by Gradle.
 
 ### <a name="projects-misc"></a>Misc <sup>[Back ⇈](#projects-misc-subcategory)</sup>
-* [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate Kotlin types and converters from JSON, Schema, TypeScript, and GraphQL
-* [lice-lang/lice](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
-* [sureshg/InstallCerts](https://github.com/sureshg/InstallCerts) - Create a PKCS12 TrustStore by retrieving server certificates.
-* [vicboma1/GameBoyEmulatorEnvironment](https://github.com/vicboma1/GameBoyEmulatorEnvironment) - Front-End developed with Kotlin Experimental for my GameBoy Emulator (coroutines).
-* [borisf/classyshark-bytecode-viewer](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
-* [jenkinsci/doktor-plugin](https://github.com/jenkinsci/doktor-plugin) - Jenkins plugin for automated documentation uploading to Confluence.
-* [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries.
-* [kpspemu/kpspemu](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
-* [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - Visual profile for software engineers written in Kotlin.
-* [chrislo27/RhythmHeavenRemixEditor](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
-* [Poweranimal/PowerCollections](https://github.com/Poweranimal/PowerCollections) - Powerfull Collections, Sets, Lists and Maps.
 * [neworld/gradle-jdeploy-plugin](https://github.com/neworld/gradle-jdeploy-plugin) - Gradle plugin to publish JVM applications via npmjs.com
-* [ruslanys/telegraff](https://github.com/ruslanys/telegraff) - Kotlin DSL for Telegram Bots creation.
 * [krzema12/fsynth](https://github.com/krzema12/fsynth) - Music synthesizer as a Kotlin multiplatform project
-* [AngryJKirk/familybot](https://github.com/AngryJKirk/familybot) - Telegram bot to have some fun with your buddies
 * [madhead/tyzenhaus](https://github.com/madhead/tyzenhaus) - Shared expenses tracking Telegram bot
+* [sureshg/InstallCerts](https://github.com/sureshg/InstallCerts) - Create a PKCS12 TrustStore by retrieving server certificates.
+* [Poweranimal/PowerCollections](https://github.com/Poweranimal/PowerCollections) - Powerfull Collections, Sets, Lists and Maps.
+* [vicboma1/GameBoyEmulatorEnvironment](https://github.com/vicboma1/GameBoyEmulatorEnvironment) - Front-End developed with Kotlin Experimental for my GameBoy Emulator (coroutines).
+* [jenkinsci/doktor-plugin](https://github.com/jenkinsci/doktor-plugin) - Jenkins plugin for automated documentation uploading to Confluence.
+* [kpspemu/kpspemu](https://github.com/kpspemu/kpspemu) - Multiplatform (JS and JVM) PSP Emulator written in Kotlin.
+* [AngryJKirk/familybot](https://github.com/AngryJKirk/familybot) - Telegram bot to have some fun with your buddies
+* [lice-lang/lice](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
+* [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries.
+* [ruslanys/telegraff](https://github.com/ruslanys/telegraff) - Kotlin DSL for Telegram Bots creation.
+* [borisf/classyshark-bytecode-viewer](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
+* [chrislo27/RhythmHeavenRemixEditor](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
+* [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - Visual profile for software engineers written in Kotlin.
+* [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate Kotlin types and converters from JSON, Schema, TypeScript, and GraphQL
 
 ### <a name="projects-desktop"></a>Desktop <sup>[Back ⇈](#projects-desktop-subcategory)</sup>
-* [ice1000/Dekoder](https://github.com/ice1000/Dekoder) - A kotlin music player, materially designed.
-* [ice1000/dev-kt](https://github.com/ice1000/dev-kt) - DevC++-like cross-platform Kotlin IDE.
-* [ruslanys/vkmusic](https://github.com/ruslanys/vkmusic) - JavaFX and Spring-Boot based application for grabbing music from VK.com.
-* [datalisk/datalisk](https://github.com/datalisk/datalisk) - A file sync and storage application with end-to-end encryption and multi-platform support.
-* [yschimke/okurl](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
 * [hazae41/Kotlin-Compiler-GUI](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
 * [pintowar/sudoscan](https://github.com/pintowar/sudoscan) - Scans and solves Sudoku Puzzles from images using AI
+* [datalisk/datalisk](https://github.com/datalisk/datalisk) - A file sync and storage application with end-to-end encryption and multi-platform support.
 * [russellbanks/HashHash](https://github.com/russellbanks/HashHash) - A Multiplatform GUI for Hashing, written in Compose for Desktop.
+* [ice1000/Dekoder](https://github.com/ice1000/Dekoder) - A kotlin music player, materially designed.
+* [ruslanys/vkmusic](https://github.com/ruslanys/vkmusic) - JavaFX and Spring-Boot based application for grabbing music from VK.com.
+* [ice1000/dev-kt](https://github.com/ice1000/dev-kt) - DevC++-like cross-platform Kotlin IDE.
+* [yschimke/okurl](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
 
 ### <a name="projects-examples"></a>Examples <sup>[Back ⇈](#projects-examples-subcategory)</sup>
-* [Kotlin/kotlin-koans](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-* [JetBrains/kotlin-examples](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
-* [JetBrains/swot](https://github.com/JetBrains/swot) - Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
-* [robfletcher/midcentury-ipsum](https://github.com/robfletcher/midcentury-ipsum) - Swingin’ filler text for your jet-age web page.
-* [som-one/zarif-kherkin](https://github.com/som-one/zarif-kherkin) - Configurable BDD testing using a Kotlin DSL for Gherkin.
-* [robfletcher/lazybones-kotlin](https://github.com/robfletcher/lazybones-kotlin) - The Lazybones app migrated to Kotlin as a learning exercise.
-* [wangjiegulu/KotlinAndroidSample](https://github.com/wangjiegulu/KotlinAndroidSample) - Android sample with kotlin.
-* [dodyg/Kotlin101](https://github.com/dodyg/Kotlin101) - 101 examples for Kotlin Programming language.
-* [dkandalov/kotlin-99](https://github.com/dkandalov/kotlin-99) - Solve 99 problems with Kotlin!
-* [dkandalov/rosettacode-kotlin](https://github.com/dkandalov/rosettacode-kotlin) - Repository with source code from <a href="https://rosettacode.org/">RosettaCode</a>
 * [vicboma1/Kotlin-Koans](https://github.com/vicboma1/Kotlin-Koans) - hese are the simple solutions of the kotlin koans online with intellij project.
 * [vicboma1/GettingStartedKotlin](https://github.com/vicboma1/GettingStartedKotlin) - Learn the basics of getting started with kotlin.
 * [vicboma1/Kotlin-Examples-Problems](https://github.com/vicboma1/Kotlin-Examples-Problems) - These are the simple solutions of the kotlin example problems online.
@@ -772,6 +762,15 @@ Here is the awesome badge for your project:
 * [LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android) - Learn Kotlin Coroutines for Android by example. Sample implementations for real-world Android use cases. Unit tests included.
 * [rozkminiacz/KotlinUnitTesting](https://github.com/rozkminiacz/KotlinUnitTesting) - Kotlin Unit Testing Examples.
 * [itmaginationdemos/KMM-Sample-App](https://github.com/itmaginationdemos/KMM-Sample-App) - A sample app written with the help of KMM (Kotlin Multiplatform). File System access, voice recording, and persistence.
+* [robfletcher/lazybones-kotlin](https://github.com/robfletcher/lazybones-kotlin) - The Lazybones app migrated to Kotlin as a learning exercise.
+* [robfletcher/midcentury-ipsum](https://github.com/robfletcher/midcentury-ipsum) - Swingin’ filler text for your jet-age web page.
+* [som-one/zarif-kherkin](https://github.com/som-one/zarif-kherkin) - Configurable BDD testing using a Kotlin DSL for Gherkin.
+* [dkandalov/rosettacode-kotlin](https://github.com/dkandalov/rosettacode-kotlin) - Repository with source code from <a href="https://rosettacode.org/">RosettaCode</a>
+* [wangjiegulu/KotlinAndroidSample](https://github.com/wangjiegulu/KotlinAndroidSample) - Android sample with kotlin.
+* [dodyg/Kotlin101](https://github.com/dodyg/Kotlin101) - 101 examples for Kotlin Programming language.
+* [dkandalov/kotlin-99](https://github.com/dkandalov/kotlin-99) - Solve 99 problems with Kotlin!
+* [JetBrains/swot](https://github.com/JetBrains/swot) - Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
+* [JetBrains/kotlin-examples](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
 
 ### <a name="projects-idea-plugins"></a>Idea Plugins <sup>[Back ⇈](#projects-idea-plugins-subcategory)</sup>
 * [Vektah/CodeGlance](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
@@ -877,20 +876,20 @@ Here is the awesome badge for your project:
 * [evilthreads669966/EasyShells](https://github.com/evilthreads669966/EasyShells) - A simple shell for executing Linux commands with responses
 * [mr-wizman/Consent](https://github.com/mr-wizman/Consent) - Easy Android permissions. Powered by Kotlin.
 * [matteocrippa/Parrot](https://github.com/matteocrippa/Parrot) - A lightweight library to load remote image and handle caching in ImageView.
-* [MackHartley/RoundedProgressBar](https://github.com/MackHartley/RoundedProgressBar) - A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use
-* [developingdeveloper-tech/toaster-android](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
-* [heart-switch](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
-* [MackHartley/DashedView](https://github.com/MackHartley/DashedView) - The easiest way to create a dashed or striped background on Android
 * [deva666/peko](https://github.com/deva666/peko) - Android library for requesting runtime permissions with Kotlin Coroutines
+* [MackHartley/DashedView](https://github.com/MackHartley/DashedView) - The easiest way to create a dashed or striped background on Android
+* [MackHartley/RoundedProgressBar](https://github.com/MackHartley/RoundedProgressBar) - A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use
+* [heart-switch](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
+* [developingdeveloper-tech/toaster-android](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>
 * [nekocode/kotgo](https://github.com/nekocode/kotgo) - An android development framwork on kotlin using MVP architecture.
-* [lightningkite/kotlin-core](https://github.com/lightningkite/kotlin-core) - A full framework for making Android apps. Based on Anko and Kotson.
 * [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Open source cross platform mobile development framework that offers write once run anywhere native development for iOS (iPhone/iPad), Android, Windows &amp; more using Kotlin &amp; Java
 * [hpost/rx-mvi](https://github.com/hpost/rx-mvi) - Minimal framework for Model View Intent inspired Android applications written in Kotlin.
 * [LouisCAD/Splitties](https://github.com/LouisCAD/Splitties) - A family of small Kotlin libraries for delightful Android development including View DSLs
 * [Miha-x64/Lychee](https://github.com/Miha-x64/Lychee) - Data binding and persistence infrastructure for building Android and JavaFX UIs and binding them with data
 * [0xe1f/ararat](https://github.com/0xe1f/ararat) 
+* [lightningkite/kotlin-core](https://github.com/lightningkite/kotlin-core) - A full framework for making Android apps. Based on Anko and Kotson.
 
 ### <a name="android-projects"></a>Projects <sup>[Back ⇈](#android-projects-subcategory)</sup>
 * [BanDev/Buddha-Quotes](https://github.com/BanDev/Buddha-Quotes) - A collaborative project to create a Free and Open Source Buddha Quotes app.
