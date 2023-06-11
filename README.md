@@ -774,7 +774,6 @@ Here is the awesome badge for your project:
 ### <a name="android-libraries"></a>Libraries <sup>[Back ⇈](#android-libraries-subcategory)</sup>
 * [evilthreads669966/WakeService](https://github.com/evilthreads669966/WakeService) - An IntentService that keeps your processor awake while doing work.
 * [evilthreads669966/EasyShells](https://github.com/evilthreads669966/EasyShells) - A simple shell for executing Linux commands with responses
-* [developingdeveloper-tech/toaster-android](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
 * [OTPComposable](https://github.com/itmaginationdemos/OTPComposable) - A library dedicated to making OTP (One Time Password) components a breeze to implement
 * [yundom/RxVan](https://github.com/yundom/RxVan) - A lightweight event bus written in Kotlin and RxJava.
 * [calintat/alps](https://github.com/calintat/alps) - Android library for preferences which includes property delegates and a custom DSL for definining preferences.
@@ -788,6 +787,7 @@ Here is the awesome badge for your project:
 * [adrielcafe/AndroidCoroutineScopes](https://github.com/adrielcafe/AndroidCoroutineScopes) - This lib implements the most common CoroutineScopes used in Android apps.
 * [yundom/kache](https://github.com/yundom/kache) - A lightweight cache library written in Kotlin.
 * [matteocrippa/Parrot](https://github.com/matteocrippa/Parrot) - A lightweight library to load remote image and handle caching in ImageView.
+* [developingdeveloper-tech/toaster-android](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
 * [mathcamp/fiberglass](https://github.com/mathcamp/fiberglass) - Easy lightweight SharedPreferences library for Android in Kotlin using delegated properties.
 * [inaka/KillerTask](https://github.com/inaka/KillerTask) - Android AsyncTask wrapper library, written in Kotlin
 * [rakshakhegde/ObservableFlow](https://github.com/rakshakhegde/ObservableFlow) - Functional Constructs for Databinding + Kotlin + RxJava
