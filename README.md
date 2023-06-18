@@ -370,8 +370,8 @@ Here is the awesome badge for your project:
 * [darkredz/Zeko-SQL-Builder](https://github.com/darkredz/Zeko-SQL-Builder) - Zeko SQL Builder is a high-performance lightweight SQL query library written for Kotlin language
 * [ctripcorp/SQLlin](https://github.com/ctripcorp/SQLlin) - A DSL SQLite library for Kotlin Multiplatform
 * [seratch/kotliquery](https://github.com/seratch/kotliquery) - A handy database access library in Kotlin.
-* [komapper/komapper](https://github.com/komapper/komapper) - Komapper is an ORM library for server-side Kotlin with JDBC and R2DBC support.
 * [andrewoma/kwery](https://github.com/andrewoma/kwery) - Kwery is an SQL library for Kotlin.
+* [komapper/komapper](https://github.com/komapper/komapper) - Komapper is an ORM library for server-side Kotlin with JDBC and R2DBC support.
 * [cheptsov/kotlin-nosql](https://github.com/cheptsov/kotlin-nosql) - NoSQL database query and access library for Kotlin.
 * [consoleau/kotlin-jpa-specification-dsl](https://github.com/consoleau/kotlin-jpa-specification-dsl) - This library provides a fluent DSL for querying spring data JPA repositories using spring data Specifications.
 * [TouK/krush](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin, based on Exposed. It’s based on a compile-time JPA annotation processor that generates Exposed DSL table and objects mappings from your data classes.
@@ -859,6 +859,7 @@ Here is the awesome badge for your project:
 * [antoniolg/Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language.
 * [antoniolg/Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book &quot;Kotlin Android Developers&quot;.
 * [damianpetla/kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2.
+* [dodyg/AndroidRivers](https://github.com/dodyg/AndroidRivers) - RSS Readers for Android.
 * [MakinGiants/banjen](https://github.com/MakinGiants/banjen) - Android app to help to tune a banjo.
 * [inaka/kotlillon](https://github.com/inaka/kotlillon) - Android Kotlin Examples.
 * [MakinGiants/todayhistory](https://github.com/MakinGiants/todayhistory) - App that shows what happened today in history.
@@ -903,7 +904,6 @@ Here is the awesome badge for your project:
 * [Marwa-Eltayeb/CurrencyExchange](https://github.com/Marwa-Eltayeb/CurrencyExchange) - Currency Exchange App that displays real-time currency rates, shows a chart for any currency pair in the world to see their currency history and provides a currency converter.
 * [AmrDeveloper/Linkhub](https://github.com/AmrDeveloper/Linkhub) - Free and open source effective link management app with no ads.
 * [AnkitSuda/Rebound](https://github.com/AnkitSuda/Rebound) - Feature Rich &amp; Highly Customizable Workout Log App.
-* [dodyg/AndroidRivers](https://github.com/dodyg/AndroidRivers) - RSS Readers for Android.
 
 ### <a name="android-extensions"></a>Extensions <sup>[Back ⇈](#android-extensions-subcategory)</sup>
 * [ajalt/timberkt](https://github.com/ajalt/timberkt) - Easy Android logging with Kotlin and Timber.
