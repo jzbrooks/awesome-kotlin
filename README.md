@@ -165,7 +165,7 @@ Here is the awesome badge for your project:
 * [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
-* [aritra-tech/Notify](https://github.com/aritra-tech/Notify) - 📝 Notify is a simple note application which is build with Modern Android development tools.
+* [aritra-tech/Notify](https://github.com/aritra-tech/Notify) - 📝 Notify is a simple note application build to demonstrate the use of clean MVVM Architecture with Jetpack Compose and Material-3 guidelines along with some Modern Android development tools.
 * [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
 * [fumiama/copymanga](https://github.com/fumiama/copymanga) - 拷贝漫画的第三方APP，优化阅读/下载体验
 * [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
