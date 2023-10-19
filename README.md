@@ -133,7 +133,6 @@ Here is the awesome badge for your project:
 * [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 * [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP
 * [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
-* [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 * [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 * [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 * [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
@@ -141,6 +140,7 @@ Here is the awesome badge for your project:
 * [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 * [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 * [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+* [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 * [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls &amp; full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 * [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 * [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
@@ -148,38 +148,43 @@ Here is the awesome badge for your project:
 
 ### <a name="github-trending-weekly"></a>Weekly <sup>[Back ⇈](#github-trending-weekly-subcategory)</sup>
 * [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
+* [VegaBobo/DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader) - A simple app made to help users easily install GSIs via DSU's Android feature.
 * [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A FOSS Android launcher
 * [home-assistant/android](https://github.com/home-assistant/android) - :iphone: Home Assistant Companion for Android
 * [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player 椒盐音乐，你若热爱 我即强大
 * [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
-* [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A premium app for managing and editing your photos, videos, GIFs without ads
 * [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
+* [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 * [android/camera-samples](https://github.com/android/camera-samples) - Multiple samples showing the best practices in camera APIs on Android.
 * [Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
 * [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
+* [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 * [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 * [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
 * [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
+* [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
 * [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
-* [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
 * [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
 * [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
-* [BryanGIG/PADumper](https://github.com/BryanGIG/PADumper) - Process Android Memory Dumper
-* [dicodingacademy/a352-android-intermediate-labs](https://github.com/dicodingacademy/a352-android-intermediate-labs) 
-* [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose composables for the Maps SDK for Android
-* [getsentry/sentry-java](https://github.com/getsentry/sentry-java) - A Sentry SDK for Java, Android and other JVM languages.
-* [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
-* [mouredev/Weekly-Challenge-2022-Kotlin](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin) - Ejercicios de código semanales en 2022 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.
-* [Kotlin/kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime) - KotlinX multiplatform date/time library
-* [google/ksp](https://github.com/google/ksp) - Kotlin Symbol Processing API
+* [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image toolbox is the app which based on modern tech stack using Clean Architecture. It has features like filters applying, cropping, EXIF editing, quality and output image type picking and tons of another options
+* [stripe/stripe-android](https://github.com/stripe/stripe-android) - Stripe Android SDK
+* [JetBrains/compose-multiplatform-ios-android-template](https://github.com/JetBrains/compose-multiplatform-ios-android-template) - Compose Multiplatform iOS+Android Application project template
+* [gallonyin/worktool](https://github.com/gallonyin/worktool) - 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT
+* [ArisGuimera/Android-Expert](https://github.com/ArisGuimera/Android-Expert) - Aprende a PROGRAMAR aplicaciones ANDROID en KOTLIN sin conocimientos previos
+* [wordpress-mobile/WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
 * [mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
-* [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 * [mockk/mockk](https://github.com/mockk/mockk) - mocking library for Kotlin
-* [detekt/detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
-* [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
-* [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
+* [chrisbanes/tivi](https://github.com/chrisbanes/tivi) - Tivi is a TV show tracking Android app, which connects to trakt.tv
+* [google/accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose
+* [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
+* [square/moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
+* [ktorio/ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
+* [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+* [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - BRVAH:Powerful and flexible RecyclerAdapter
+* [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+* [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 * [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 
 
@@ -1010,7 +1015,6 @@ Here is the awesome badge for your project:
 
 ## <a name="kotlin-javascript"></a>Kotlin JavaScript <sup>[Back ⇈](#kotlin-javascript-category)</sup>
 ### <a name="kotlin-javascript-javascript"></a>JavaScript <sup>[Back ⇈](#kotlin-javascript-javascript-subcategory)</sup>
-* [andrewoma/reakt](https://github.com/andrewoma/reakt) - Reakt is a Kotlin wrapper for facebook's React library.
 * [pixijs/pixi-native](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
 * [shafirov/klogging](https://github.com/shafirov/klogging) - Kotlin logging, both js and jvm.
 * [stangls/kotlin-js-jquery](https://github.com/stangls/kotlin-js-jquery) - A small framework for writing client -side web -applications in Kotlin.
@@ -1023,6 +1027,7 @@ Here is the awesome badge for your project:
 * [Kabbura/Kunafa](https://github.com/Kabbura/Kunafa) - Easy to use, high level framework in Kotlin for front-end web-development and creating web apps without using HTML, CSS, or JavaScript.
 * [Foso/MpApt](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
 * [fortytwoapps/kstitch](https://github.com/fortytwoapps/kstitch) - An object oriented toolkit for MongoDB Stitch in KotlinJS.
+* [andrewoma/reakt](https://github.com/andrewoma/reakt) - Reakt is a Kotlin wrapper for facebook's React library.
 
 ### <a name="kotlin-javascript-frontend"></a>Frontend <sup>[Back ⇈](#kotlin-javascript-frontend-subcategory)</sup>
 * [olegcherr/Aza-Kotlin-CSS](https://github.com/olegcherr/Aza-Kotlin-CSS) - Kotlin DSL for CSS
