@@ -130,8 +130,8 @@ Here is the awesome badge for your project:
 * [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 * [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 * [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android
-* [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 * [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+* [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 * [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 * [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 * [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP
@@ -512,7 +512,6 @@ Here is the awesome badge for your project:
 
 ### <a name="libraries-frameworks-misc"></a>Misc <sup>[Back ⇈](#libraries-frameworks-misc-subcategory)</sup>
 * [themichailov/kache](https://github.com/themichailov/kache) - Kotlin functions caching library, reducing count of function executions.
-* [oolong-kt/oolong](https://oolong-kt.org) - Elm inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
 * [d-max/dsl-logger](https://github.com/d-max/dsl-logger) - Simple DSL for logging with logger abstraction layer
 * [mobiletoly/urlsome](https://github.com/mobiletoly/urlsome) - URL builder library for Kotlin
 * [Ahoo-Wang/CoCache](https://github.com/Ahoo-Wang/CoCache) - Level 2 Distributed Coherence Cache Framework
@@ -571,6 +570,7 @@ Here is the awesome badge for your project:
 * [yole/kxdate](https://github.com/yole/kxdate) - Kotlin extensions for Java 8 java.time API
 * [nsk90/kstatemachine](https://github.com/nsk90/kstatemachine) - KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
 * [insanusmokrassar/TelegramBotAPI](https://github.com/insanusmokrassar/TelegramBotAPI) - Kotlin Multiplatform library for type-safe work with Telegram Bot API
+* [oolong-kt/oolong](https://oolong-kt.org) - Elm inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
 * [touchlab/KMMBridge](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
 * [hotchemi/khronos](https://github.com/hotchemi/khronos) - An intuitive Date extensions in Kotlin.
 * [charleskorn/kaml](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
@@ -923,9 +923,9 @@ Here is the awesome badge for your project:
 * [lightningkite/kotlin-core](https://github.com/lightningkite/kotlin-core) - A full framework for making Android apps. Based on Anko and Kotson.
 * [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Open source cross platform mobile development framework that offers write once run anywhere native development for iOS (iPhone/iPad), Android, Windows &amp; more using Kotlin &amp; Java
 * [hpost/rx-mvi](https://github.com/hpost/rx-mvi) - Minimal framework for Model View Intent inspired Android applications written in Kotlin.
+* [LouisCAD/Splitties](https://github.com/LouisCAD/Splitties) - A family of small Kotlin libraries for delightful Android development including View DSLs
 * [Miha-x64/Lychee](https://github.com/Miha-x64/Lychee) - Data binding and persistence infrastructure for building Android and JavaFX UIs and binding them with data
 * [0xe1f/ararat](https://github.com/0xe1f/ararat) 
-* [LouisCAD/Splitties](https://github.com/LouisCAD/Splitties) - A family of small Kotlin libraries for delightful Android development including View DSLs
 
 ### <a name="android-projects"></a>Projects <sup>[Back ⇈](#android-projects-subcategory)</sup>
 * [BanDev/Buddha-Quotes](https://github.com/BanDev/Buddha-Quotes) - A collaborative project to create a Free and Open Source Buddha Quotes app.
