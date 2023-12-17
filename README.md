@@ -131,16 +131,16 @@ Here is the awesome badge for your project:
 * [flipperdevices/Flipper-Android-App](https://github.com/flipperdevices/Flipper-Android-App) - Android Mobile app to rule all Flipper's family
 * [aistra0528/Hail](https://github.com/aistra0528/Hail) - 冻结 Android 应用 Freeze Android apps
 * [arkivanov/Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing (navigation) and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
+* [google/ksp](https://github.com/google/ksp) - Kotlin Symbol Processing API
 * [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
-* [android/camera-samples](https://github.com/android/camera-samples) - Multiple samples showing the best practices in camera APIs on Android.
 * [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 * [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 * [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 * [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
+* [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 * [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
 * [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP
 * [coil-kt/coil](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
-* [ktorio/ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
 * [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
 * [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
 * [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
@@ -153,35 +153,37 @@ Here is the awesome badge for your project:
 * [jing332/AlistAndroid](https://github.com/jing332/AlistAndroid) - AList 安卓版本，APK安装即用，无需Root或Termux。
 * [GangJust/FreedomPlus](https://github.com/GangJust/FreedomPlus) - 依赖于抖音运行的Xposed模块.
 * [rhunk/SnapEnhance](https://github.com/rhunk/SnapEnhance) - An Xposed module that enhances your Snapchat experience
+* [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
 * [patrykandpatrick/vico](https://github.com/patrykandpatrick/vico) - A light and extensible chart library for Android.
 * [adrielcafe/voyager](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose
+* [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox react native module for creating custom maps
+* [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 * [wangchenyan/ponymusic](https://github.com/wangchenyan/ponymusic) - An Android online music player like NetEase Cloud Music
 * [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player, The Best!
 * [raamcosta/compose-destinations](https://github.com/raamcosta/compose-destinations) - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
 * [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 * [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
-* [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.
 * [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 * [square/okio](https://github.com/square/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.
+* [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 * [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 * [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
+* [yveskalume/gemini-chat](https://github.com/yveskalume/gemini-chat) - a sample project using Gemini, the Google's latest family of large language models.
 * [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 * [google/generative-ai-android](https://github.com/google/generative-ai-android) - Google AI SDK for Android
-* [glasskube/operator](https://github.com/glasskube/operator) - The easiest way to get started with Kubernetes  🧊
-* [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
 * [SceneView/sceneview-android](https://github.com/SceneView/sceneview-android) - SceneView is a 3D and AR Android Composable and View with Google Filament and ARCore. This is a Sceneform replacement in Kotlin
-* [KieronQuinn/PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - A root app that enables you to add a number of features to the stock Pixel Launcher, without needing Xposed
-* [google/secrets-gradle-plugin](https://github.com/google/secrets-gradle-plugin) - A Gradle plugin for providing your secrets to your Android project.
-* [mozilla-mobile/firefox-android](https://github.com/mozilla-mobile/firefox-android) - This repository hosts the Firefox for Android (Fenix), Focus for Android, and Mozilla Android Components projects.
+* [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的看番软件，支持多番剧源
 * [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
-* [home-assistant/android](https://github.com/home-assistant/android) - :iphone: Home Assistant Companion for Android
+* [mouredev/Weekly-Challenge-2022-Kotlin](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin) - Ejercicios de código semanales en 2022 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.
 * [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
-* [androidx/androidx](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
-* [Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
-* [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
-* [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+* [tachiyomiorg/tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
+* [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
+* [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
+* [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
+* [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
+* [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
@@ -455,8 +457,8 @@ Here is the awesome badge for your project:
 * [s1monw1/KtsRunner](https://github.com/s1monw1/KtsRunner) - Library for executing .kts files from regular Kotlin code using Java Scripting Engines API
 * [typesafegithub/github-workflows-kt](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
 * [saveourtool/diktat](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting and autofixing code smells.
-* [Kotlin/kotlin-interactive-shell](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell
 * [SonarSource/sonarlint-intellij](https://github.com/SonarSource/sonarlint-intellij) - An IDE extension that helps you detect and fix quality issues as you write code.
+* [Kotlin/kotlin-interactive-shell](https://github.com/Kotlin/kotlin-interactive-shell) - Kotlin Language Interactive Shell
 * [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt) - Kotlin code formatter that reflows lines and always produces the same result.
 * [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover) - Gradle plugin for Kotlin code coverage agents.
 * [jmfayard/refreshVersions](https://github.com/jmfayard/refreshVersions) - Better Gradle dependencies management inside the IDE. Search for available updates.
@@ -642,26 +644,27 @@ Here is the awesome badge for your project:
 * [sksamuel/hoplite](https://github.com/sksamuel/hoplite) - A library for loading configuration files into typesafe Kotlin data classes in a boilerplate-free way
 
 ### <a name="libraries-frameworks-graphics"></a>Graphics <sup>[Back ⇈](#libraries-frameworks-graphics-subcategory)</sup>
-* [kotlin-graphics/ovr](https://github.com/kotlin-graphics/ovr) - Oculus binding
-* [kotlin-graphics/uno-sdk](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
-* [Jonatino/JOGL2D](https://github.com/Jonatino/JOGL2D) - Zero-overhead 2D rendering library for JOGL using Kotlin.
-* [kotlin-graphics/gli](https://github.com/kotlin-graphics/gli) - g-truck gli port, image library
-* [soywiz/kaifu2x](https://github.com/soywiz/kaifu2x) - Waifu2x port to Kotlin as library and CLI. Convolutional-neural-network based upscaler for Anime-like images and noise/artifact reduction.
-* [kotlin-graphics/openvr](https://github.com/kotlin-graphics/openvr) - OpenVR binding
-* [java-opengl-labs/learn-OpenGL](https://github.com/java-opengl-labs/learn-OpenGL) - port of https://learnopengl.com/ tutorial (lwjgl)
-* [kotlin-graphics/bullet](https://github.com/kotlin-graphics/bullet) - bullet port
-* [dananas/kotlin-glsl](https://github.com/dananas/kotlin-glsl) - Write your GLSL shaders in Kotlin
-* [java-opengl-labs/Vulkan](https://github.com/java-opengl-labs/Vulkan) - port of https://github.com/SaschaWillems/Vulkan
-* [kotlin-graphics/kotlin-unsigned](https://github.com/kotlin-graphics/kotlin-unsigned) - Unsigned operators and boxed types (Ubyte, Uint, Ulong and Ushort) for unsigned support.
-* [nwillc/ksvg](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
-* [kotlin-graphics/assimp](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
-* [java-opengl-labs/modern-jogl-examples](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
-* [openrndr/orx](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
-* [kotlin-graphics/glm](https://github.com/kotlin-graphics/glm) - g-truck glm port, opengl mathematics library
-* [markaren/three.kt](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
 * [data2viz/data2viz](https://github.com/data2viz/data2viz) - multiplatform dataviz library, d3js port
+* [kotlin-graphics/glm](https://github.com/kotlin-graphics/glm) - g-truck glm port, opengl mathematics library
+* [dananas/kotlin-glsl](https://github.com/dananas/kotlin-glsl) - Write your GLSL shaders in Kotlin
+* [kotlin-graphics/kotlin-unsigned](https://github.com/kotlin-graphics/kotlin-unsigned) - Unsigned operators and boxed types (Ubyte, Uint, Ulong and Ushort) for unsigned support.
+* [kotlin-graphics/gli](https://github.com/kotlin-graphics/gli) - g-truck gli port, image library
+* [kotlin-graphics/uno-sdk](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
+* [kotlin-graphics/ovr](https://github.com/kotlin-graphics/ovr) - Oculus binding
+* [kotlin-graphics/openvr](https://github.com/kotlin-graphics/openvr) - OpenVR binding
+* [kotlin-graphics/assimp](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
 * [kotlin-graphics/imgui](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
+* [kotlin-graphics/bullet](https://github.com/kotlin-graphics/bullet) - bullet port
+* [GlimpseFramework/glimpse-framework](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+* [java-opengl-labs/modern-jogl-examples](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
+* [java-opengl-labs/learn-OpenGL](https://github.com/java-opengl-labs/learn-OpenGL) - port of https://learnopengl.com/ tutorial (lwjgl)
+* [java-opengl-labs/Vulkan](https://github.com/java-opengl-labs/Vulkan) - port of https://github.com/SaschaWillems/Vulkan
+* [Jonatino/JOGL2D](https://github.com/Jonatino/JOGL2D) - Zero-overhead 2D rendering library for JOGL using Kotlin.
+* [soywiz/kaifu2x](https://github.com/soywiz/kaifu2x) - Waifu2x port to Kotlin as library and CLI. Convolutional-neural-network based upscaler for Anime-like images and noise/artifact reduction.
+* [nwillc/ksvg](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
 * [openrndr/openrndr](https://github.com/openrndr/openrndr) - OPENRNDR, a framework for creative coding in Kotlin. Accelerated 2D and 3D graphics, vector graphics, shaders and animation
+* [openrndr/orx](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
+* [markaren/three.kt](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
 * [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
 
 ### <a name="libraries-frameworks-data-science"></a>Data Science <sup>[Back ⇈](#libraries-frameworks-data-science-subcategory)</sup>
@@ -695,8 +698,8 @@ Here is the awesome badge for your project:
 * [aPureBase/arkenv](https://github.com/aPureBase/arkenv) - Fully fledged command line arguments / environment variables parser via simple Kotlin delegates
 * [fork-handles/bunting4k](https://github.com/fork-handles/forkhandles/tree/trunk/bunting4k) - Simple, typesafe, testable command line flags
 * [dbaelz/Konclik](https://github.com/dbaelz/Konclik) 
-* [varabyte/kotter](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
 * [kotlin-inquirer](https://github.com/kotlin-inquirer/kotlin-inquirer) - A collection of common interactive command line user interfaces written in Kotlin
+* [varabyte/kotter](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
 
 ### <a name="libraries-frameworks-browsers"></a>Browsers <sup>[Back ⇈](#libraries-frameworks-browsers-subcategory)</sup>
 * [wendigo/chrome-reactive-kotlin](https://github.com/wendigo/chrome-reactive-kotlin) 
