@@ -125,16 +125,16 @@ Here is the awesome badge for your project:
 
 ## <a name="github-trending"></a>Github Trending <sup>[Back ⇈](#github-trending-category)</sup>
 ### <a name="github-trending-monthly"></a>Monthly <sup>[Back ⇈](#github-trending-monthly-subcategory)</sup>
-* [j-hc/zygisk-detach-app](https://github.com/j-hc/zygisk-detach-app) - The app for zygisk-detach
 * [lizongying/my-tv-0](https://github.com/lizongying/my-tv-0) - 电视网络视频播放软件，可以自定义视频源
 * [rhunk/SnapEnhance](https://github.com/rhunk/SnapEnhance) - An Xposed module offering an enhanced Snapchat experience
 * [Skytils/SkytilsMod](https://github.com/Skytils/SkytilsMod) - Skytils is a Hypixel Skyblock mod! Be careful, malicious copies are distributed across GitHub. Confirm on discord.gg/skytils (807302538558308352)
 * [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+* [lavalink-devs/Lavalink](https://github.com/lavalink-devs/Lavalink) - Standalone audio sending node based on Lavaplayer.
 * [KieronQuinn/Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Smartspacer is a customisable widget for Android, but with a difference: It can upgrade the built in At a Glance on Pixels - without root!
 * [patrykandpatrick/vico](https://github.com/patrykandpatrick/vico) - A light and extensible chart library for Android.
 * [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 * [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
-* [unit-mesh/auto-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent  feature 🧪 included! 🚀
+* [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
 * [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 * [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 * [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
@@ -151,39 +151,38 @@ Here is the awesome badge for your project:
 * [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
 ### <a name="github-trending-weekly"></a>Weekly <sup>[Back ⇈](#github-trending-weekly-subcategory)</sup>
-* [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
+* [skydoves/pokedex-compose](https://github.com/skydoves/pokedex-compose) - 🗡️ Pokedex Compose demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
+* [FossifyOrg/Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
 * [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
-* [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) - Customize Boring Android UI
 * [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 * [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
 * [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的看番软件，支持多番剧源
 * [EhViewer-NekoInverter/EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥 A fork of EhViewer, feature requests are not accepted. Forked from https://gitlab.com/NekoInverter/EhViewer
-* [pedroSG94/RootEncoder](https://github.com/pedroSG94/RootEncoder) - RootEncoder for Android (rtmp-rtsp-stream-client-java) is a stream encoder to push video/audio to media servers using protocols RTMP, RTSP, SRT and UDP with all code written in Java/Kotlin
+* [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
+* [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player, The Best!
 * [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) 
+* [kizitonwose/Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android.
 * [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
-* [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 * [coil-kt/coil](https://github.com/coil-kt/coil) - Image loading for Android and Compose Multiplatform.
 * [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
 * [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 * [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
+* [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - BRVAH:Powerful and flexible RecyclerAdapter
 * [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
-* [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
-* [Greatwallcorner/TV-Multiplatform](https://github.com/Greatwallcorner/TV-Multiplatform) - 基于fonmi/TV项目的， 简单桌面版本实现。
-* [butzist/ActivityLauncher](https://github.com/butzist/ActivityLauncher) - Activity launcher creates shortcuts for any installed app and hidden activities to launch them with ease
-* [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
-* [CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce) - A free mixin-based injection hacked client for Minecraft using the Fabric API
-* [Fate-Grand-Automata/FGA](https://github.com/Fate-Grand-Automata/FGA) - Auto-battle app for F/GO Android
-* [tytydraco/LADB](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
+* [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi) - 匪兕匪虎 率彼旷野
+* [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
+* [SagerNet/sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
+* [FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer
 * [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
-* [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
-* [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
-* [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
+* [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
+* [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
+* [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) - An app for manga and anime
 * [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 * [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 * [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-* [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
+* [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
@@ -632,9 +631,10 @@ Here is the awesome badge for your project:
 * [h0tk3y/regex-dsl](https://github.com/h0tk3y/regex-dsl) - A Kotlin DSL for regular expressions
 
 ### <a name="libraries-frameworks-extensions"></a>Extensions <sup>[Back ⇈](#libraries-frameworks-extensions-subcategory)</sup>
+* [Kotlin/kotlinx.support](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
+* [vanshg/KrazyKotlin](https://github.com/vanshg/KrazyKotlin) - A collection of useful Kotlin Extension
 * [hankdavidson/ktime](https://github.com/hankdavidson/ktime) - Extensions to the java8 time library
 * [LukasForst/katlib](https://github.com/LukasForst/katlib) - A collection of Kotlin extension functions and utilities.
-* [vanshg/KrazyKotlin](https://github.com/vanshg/KrazyKotlin) - A collection of useful Kotlin Extension
 
 ### <a name="libraries-frameworks-configuration"></a>Configuration <sup>[Back ⇈](#libraries-frameworks-configuration-subcategory)</sup>
 * [npryce/konfig](https://github.com/npryce/konfig) - A Type Safe Configuration API for Kotlin
