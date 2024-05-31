@@ -129,15 +129,15 @@ Here is the awesome badge for your project:
 * [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi) - 匪兕匪虎 率彼旷野
 * [WSTxda/Plugin-VoiceGPT](https://github.com/WSTxda/Plugin-VoiceGPT) - Use ChatGPT instead of Google Assistant
 * [CofbroTeam/Doraemon](https://github.com/CofbroTeam/Doraemon) - ⭐ ⭐ ⭐不止签到！更有一键同步作业功能！⭐ ⭐ ⭐ UI友好的安卓-Android移动端学习通签到助手，支持普通签到，扫码签到，图片签到，二维码签到，定位签到，签到码签到，手势签到，作业提醒：push通知，短信通知！！
+* [element-hq/element-x-android](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 * [android/platform-samples](https://github.com/android/platform-samples) - A collection of samples of different Android OS platform APIs.
 * [YenalyLiew/Han1meViewer](https://github.com/YenalyLiew/Han1meViewer) - A Hanime1.me Application for Android.
+* [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions for Tachiyomi/Mihon and variants.
 * [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 * [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
-* [videolan/vlc-android](https://github.com/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS
+* [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 * [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 * [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) - An app for manga and anime
-* [Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
-* [chrisbanes/tivi](https://github.com/chrisbanes/tivi) - Tivi is a TV show tracking Android app, which connects to trakt.tv
 * [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 * [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 * [ethereum-lists/chains](https://github.com/ethereum-lists/chains) - provides metadata for chains
@@ -152,37 +152,38 @@ Here is the awesome badge for your project:
 * [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ### <a name="github-trending-weekly"></a>Weekly <sup>[Back ⇈](#github-trending-weekly-subcategory)</sup>
-* [mgz0227/legado-Harmony](https://github.com/mgz0227/legado-Harmony) - 开源阅读鸿蒙版仓库
 * [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) - Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.
-* [rebelonion/Dantotsu](https://github.com/rebelonion/Dantotsu) - Anilist client based on Saikou
-* [Fate-Grand-Automata/FGA](https://github.com/Fate-Grand-Automata/FGA) - Auto-battle app for F/GO Android
 * [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 * [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
-* [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
+* [google/ksp](https://github.com/google/ksp) - Kotlin Symbol Processing API
+* [JetBrains/kotlinconf-app](https://github.com/JetBrains/kotlinconf-app) - KotlinConf Schedule Application
 * [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) 
 * [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
-* [androidx/androidx](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
+* [Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
+* [mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
 * [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 * [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+* [coil-kt/coil](https://github.com/coil-kt/coil) - Image loading for Android and Compose Multiplatform.
 * [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio.
 * [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 * [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls &amp; full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+* [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
 * [jiangyuanyuan/Multi](https://github.com/jiangyuanyuan/Multi) - 大型Android项目基础架构，AndroidX、Jetpack、Koin、模块化、模块代码权限控制、单Activity多fragment
-* [FSpaceCore/SpaceCore](https://github.com/FSpaceCore/SpaceCore) - SpaceCore is a virtual Android system engine that can  engage users clone and run dual applications，this engine can also support device simulation, fake GPS and many other features.SpaceCore是一个虚拟引擎内核，提供在Android上克隆和运行虚拟应用程序，并且已支持设备模拟、模拟定位以及其他更多的功能。
-* [nightscout/AndroidAPS](https://github.com/nightscout/AndroidAPS) - Opensource automated insulin delivery system (closed loop)
-* [getsentry/sentry-java](https://github.com/getsentry/sentry-java) - A Sentry SDK for Java, Android and other JVM languages.
-* [patrykandpatrick/vico](https://github.com/patrykandpatrick/vico) - A light and extensible chart library for Android.
-* [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox react native module for creating custom maps
-* [adrielcafe/voyager](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose
-* [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
-* [detekt/detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
-* [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.
-* [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
+* [iiheng/VCAMSX](https://github.com/iiheng/VCAMSX) - 安卓虚拟摄像头
+* [mapbox/mapbox-maps-android](https://github.com/mapbox/mapbox-maps-android) - Interactive, thoroughly customizable maps in native Android powered by vector tiles and OpenGL.
+* [aws/aws-toolkit-jetbrains](https://github.com/aws/aws-toolkit-jetbrains) - AWS Toolkit for JetBrains - a plugin for interacting with AWS from JetBrains IDEs
+* [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose composables for the Maps SDK for Android
+* [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) - Adds themed icons to Lawnchair.
+* [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
+* [gallonyin/worktool](https://github.com/gallonyin/worktool) - 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT
+* [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
+* [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
 * [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
-* [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
+* [JakeWharton/timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 * [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - BRVAH:Powerful and flexible RecyclerAdapter
+* [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 * [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 
 
