@@ -131,6 +131,7 @@ Here is the awesome badge for your project:
 * [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
 * [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
 * [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
+* [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 * [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
 * [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 * [mobile-dev-inc/maestro](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
@@ -143,7 +144,6 @@ Here is the awesome badge for your project:
 * [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 * [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls &amp; full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 * [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
-* [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 * [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 * [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 * [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
@@ -151,33 +151,31 @@ Here is the awesome badge for your project:
 ### <a name="github-trending-weekly"></a>Weekly <sup>[Back ⇈](#github-trending-weekly-subcategory)</sup>
 * [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) - Universal Pasteboard Across Devices
 * [crimera/piko](https://github.com/crimera/piko) - revanced-patches for twitter
-* [zacharee/InstallWithOptions](https://github.com/zacharee/InstallWithOptions) - Simple-ish app using Shizuku to install APKs on-device with advanced options
 * [Skytils/SkytilsMod](https://github.com/Skytils/SkytilsMod) - Skytils is a Hypixel Skyblock mod! Be careful, malicious copies are distributed across GitHub. Confirm on discord.gg/skytils (807302538558308352)
-* [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
+* [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
 * [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
 * [rnmapbox/maps](https://github.com/rnmapbox/maps) - A Mapbox react native module for creating custom maps
 * [nekomangaorg/Neko](https://github.com/nekomangaorg/Neko) - Unofficial MangaDex Reader for Android 7+
 * [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
+* [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
 * [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
-* [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
-* [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) - An app for manga and anime
 * [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
+* [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - BRVAH:Powerful and flexible RecyclerAdapter
+* [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
+* [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
-* [rhunk/SnapEnhance](https://github.com/rhunk/SnapEnhance) - An Xposed module offering an enhanced Snapchat experience
+* [rhenwinch/Flixclusive](https://github.com/rhenwinch/Flixclusive) - An ad-free TV show and movie player application.
+* [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A Android Application for share DeviceOwner
+* [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (Shizuku)!
+* [CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce) - A free mixin-based injection hacked client for Minecraft using the Fabric API
 * [FooIbar/EhViewer](https://github.com/FooIbar/EhViewer) - EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer
-* [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源
-* [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
-* [osfans/trime](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
+* [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 * [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
-* [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
-* [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
-* [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
-* [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
-* [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-* [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
-* [android/architecture-components-samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
-* [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
+* [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
+* [skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap) - 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.
+* [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
+* [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
@@ -289,8 +287,8 @@ Here is the awesome badge for your project:
 * [alpas/alpas](https://github.com/alpas/alpas) - Kotlin web framework inspired by Laravel/Rails. Easy, elegant and productive.
 * [mvysny/vaadin-on-kotlin](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
 * [vert-x3/vertx-lang-kotlin](https://github.com/vert-x3/vertx-lang-kotlin) - This module provides Kotlin language bindings including DSL and extension functions for vert.x 3
-* [hypercube1024/firefly](https://github.com/hypercube1024/firefly) - An asynchronous web framework for rapid development of high-performance web application.
 * [aPureBase/KGraphQL](https://github.com/aPureBase/KGraphQL) - A GraphQL implementation written in Kotlin
+* [hypercube1024/firefly](https://github.com/hypercube1024/firefly) - An asynchronous web framework for rapid development of high-performance web application.
 * [SeunAdelekan/Kanary](https://github.com/SeunAdelekan/Kanary) - A micro webframework for Kotlin
 * [TinyMission/kara](https://github.com/TinyMission/kara) - Web framework written in Kotlin.
 * [hhariri/wasabi](https://github.com/hhariri/wasabi) - An HTTP Framework built with Kotlin for the JVM.
@@ -646,27 +644,27 @@ Here is the awesome badge for your project:
 * [sksamuel/hoplite](https://github.com/sksamuel/hoplite) - A library for loading configuration files into typesafe Kotlin data classes in a boilerplate-free way
 
 ### <a name="libraries-frameworks-graphics"></a>Graphics <sup>[Back ⇈](#libraries-frameworks-graphics-subcategory)</sup>
-* [java-opengl-labs/modern-jogl-examples](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
-* [java-opengl-labs/learn-OpenGL](https://github.com/java-opengl-labs/learn-OpenGL) - port of https://learnopengl.com/ tutorial (lwjgl)
-* [java-opengl-labs/Vulkan](https://github.com/java-opengl-labs/Vulkan) - port of https://github.com/SaschaWillems/Vulkan
-* [soywiz/kaifu2x](https://github.com/soywiz/kaifu2x) - Waifu2x port to Kotlin as library and CLI. Convolutional-neural-network based upscaler for Anime-like images and noise/artifact reduction.
-* [nwillc/ksvg](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
-* [openrndr/openrndr](https://github.com/openrndr/openrndr) - OPENRNDR, a framework for creative coding in Kotlin. Accelerated 2D and 3D graphics, vector graphics, shaders and animation
-* [openrndr/orx](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
-* [markaren/three.kt](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
-* [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
 * [kotlin-graphics/ovr](https://github.com/kotlin-graphics/ovr) - Oculus binding
 * [kotlin-graphics/uno-sdk](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
 * [Jonatino/JOGL2D](https://github.com/Jonatino/JOGL2D) - Zero-overhead 2D rendering library for JOGL using Kotlin.
 * [kotlin-graphics/gli](https://github.com/kotlin-graphics/gli) - g-truck gli port, image library
+* [soywiz/kaifu2x](https://github.com/soywiz/kaifu2x) - Waifu2x port to Kotlin as library and CLI. Convolutional-neural-network based upscaler for Anime-like images and noise/artifact reduction.
 * [kotlin-graphics/openvr](https://github.com/kotlin-graphics/openvr) - OpenVR binding
+* [java-opengl-labs/learn-OpenGL](https://github.com/java-opengl-labs/learn-OpenGL) - port of https://learnopengl.com/ tutorial (lwjgl)
 * [dananas/kotlin-glsl](https://github.com/dananas/kotlin-glsl) - Write your GLSL shaders in Kotlin
 * [kotlin-graphics/bullet](https://github.com/kotlin-graphics/bullet) - bullet port
+* [java-opengl-labs/Vulkan](https://github.com/java-opengl-labs/Vulkan) - port of https://github.com/SaschaWillems/Vulkan
 * [kotlin-graphics/kotlin-unsigned](https://github.com/kotlin-graphics/kotlin-unsigned) - Unsigned operators and boxed types (Ubyte, Uint, Ulong and Ushort) for unsigned support.
+* [nwillc/ksvg](https://github.com/nwillc/ksvg) - Kotlin SVG image generation DSL, supporting inline and file formats.
 * [kotlin-graphics/assimp](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
+* [java-opengl-labs/modern-jogl-examples](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
+* [openrndr/orx](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
 * [kotlin-graphics/glm](https://github.com/kotlin-graphics/glm) - g-truck glm port, opengl mathematics library
+* [markaren/three.kt](https://github.com/markaren/three.kt) - Kotlin port of three.js JavaScript 3D library
 * [data2viz/data2viz](https://github.com/data2viz/data2viz) - multiplatform dataviz library, d3js port
 * [kotlin-graphics/imgui](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
+* [openrndr/openrndr](https://github.com/openrndr/openrndr) - OPENRNDR, a framework for creative coding in Kotlin. Accelerated 2D and 3D graphics, vector graphics, shaders and animation
+* [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
 
 ### <a name="libraries-frameworks-data-science"></a>Data Science <sup>[Back ⇈](#libraries-frameworks-data-science-subcategory)</sup>
 * [Kotlin for Data Science](https://kotlinlang.org/docs/reference/data-science-overview.html) - Kotlin for Data Science overview page
